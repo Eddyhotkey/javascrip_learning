@@ -7,4 +7,8 @@
 7. git log - zeigt unsere Commits
 8. ein Repository auf github.com erstellen
 9. Kopieren den Link, um ein Repository für das Terminal hinzuzufügen git remote add origin https://github.com/Eddyhotkey/javascrip_learning.git
-10. git push -u origin master 
+10. git push -u origin master - сливаем в github наши изменения
+11. git push - обычная команда для добавления коммитов
+12. git clone - ein Befehl um Repo zu klonieren
+13. git pull - ein Befehl um alle Änderungen zu kriegen
+14. 
